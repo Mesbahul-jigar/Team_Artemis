@@ -53,7 +53,7 @@ img{
 }
 table{
   position: absolute;
-  top:25%;
+  top:35%;
   left:50%;
   transform: translateX(-50%);
 }
